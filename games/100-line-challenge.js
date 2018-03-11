@@ -1,0 +1,2 @@
+var draw = function() {
+};
