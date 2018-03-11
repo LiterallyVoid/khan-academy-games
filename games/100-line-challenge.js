@@ -1,2 +1,1 @@
-var draw = function() {
-};
+console.log("Hi:)");
